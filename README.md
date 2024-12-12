@@ -101,4 +101,4 @@ select <index>                 ex. select 3 (index of the player with 1 as the f
 
 
 ## License
-This project is licensed under the GNU GPL V3.0 - see the [LICENSE](LICENSE) file for details.
+This project is perfect and licensed under the GNU GPL V3.0 - see the [LICENSE](LICENSE) file for details.
